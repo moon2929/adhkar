@@ -1,0 +1,52 @@
+
+body{
+    background-color: #CDF0EA;
+    text-align: center;
+  padding: 50px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #446A46;
+  text-align: center;
+ 
+ }
+
+.p{
+  font-size: 25px;
+  padding: 30px;
+  border: solid #827397;
+  background-color: #B3E8E5;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.p1{
+  font-size: 25px;
+  padding: 30px;
+  border: solid #827397;
+  background-color: #B3E8E5;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+
+
+
+
+.ara{
+  font-size: 35px;
+  text-align: center;
+}
+
+.trns{
+  text-align: left;
+  font-size: 20px;
+}
+
+
+.head{
+  background-color: none;
+  color: black;
+  text-align: left;
+  font-size: 20px;
+  padding: 20px;
+  border: solid black;
+}
